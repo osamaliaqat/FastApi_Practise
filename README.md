@@ -24,9 +24,6 @@
 
    The server should now be running at http://localhost:8000.
 
-## API Documentation
-
-You can find the API documentation at http://localhost:8000/docs.
 
 The following endpoints are available:
 
